@@ -1,0 +1,11 @@
+# Site settings
+title: rose huang
+email: rose.huang@columbia.edu
+author:
+description:
+url: rosehuang.com
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css
